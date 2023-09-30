@@ -3,7 +3,7 @@
 - 🔭 I have working as a developer for 2,5 years. Currently I am on a break to care for my child with special needs.
 - 🌱 I'll join Hacktober 2023 to start contributing to open-source projects
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
 <!--
 **evelinabe/evelinabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
