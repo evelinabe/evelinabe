@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I have working as a developer for 2,5 years. Currently I am on a break to care for my child with special needs.
+- 🌱 I'll join Hacktober 2023 to start contributing to open-source projects
+
 [![An image of @evelinabe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/evelinabe)](https://holopin.io/@evelinabe)
 <!--
 **evelinabe/evelinabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
