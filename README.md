@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, nice to meet you 👋
 
-- 🔭 I have working as a developer for 2,5 years. Currently I am on a break to care for my child with special needs.
-- 🌱 I'll join Hacktober 2023 to start contributing to open-source projects
+- 🔭 I have been working as a frontend engineer for 3+ years. 
+- 🖋️ I like words, and am currently exploring the art of Technical Writing in Open Source Docs
+- 📊 Charts and bringing data to life has a special place in my heart
+- 💼 I am currently freelancing and open for new opportunities
+- 📫 How to reach me: my.name[at]outlook
+- ⚡ Fun fact: 🌱 I have a master's degree in Political Science with focus on Leading and Policy Evaluation and have been working a decade in the public sector. In many cases, it was more innovative than IT. 
+
 
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
 <!--
@@ -16,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
