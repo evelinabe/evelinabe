@@ -2,7 +2,6 @@
 
 - 📖 I contribute to Open Source, currently MDN and GitLab
 - 🔭 I have been working as a frontend engineer for 3+ years. 
-- 🖋️ I like words, and am currently exploring the art of Technical Writing in Open Source Docs
 - 📊 Charts and bringing data to life has a special place in my heart
 - 💼 I am currently freelancing and open for new opportunities
 - 📫 How to reach me: my.name[at]outlook
